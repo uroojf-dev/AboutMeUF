@@ -1,20 +1,20 @@
-# ABUBAKAR - AboutMe Android App
+# UROOJFATIMA - AboutMe Android App
 
 ## Project Description
 This Android application was created as part of an assignment to showcase personal information through a well-designed mobile interface. The app demonstrates navigation between fragments, Material Design principles, and proper string externalization.
 
 ## Developer Information
-- **Name**: Abubakar
-- **Email**: AT82755n@pace.edu
+- **Name**: Urooj
+- **Email**: uf28543n@pace.edu
 - **University**: Pace University - Seidenberg School
 - **Program**: Master's in Computer Science
 - **Location**: New York, NY
-- **Background**: International student from Pakistan
+- **Background**: International student from India
 
 ## App Features
 
 ### 🏠 Biography Fragment (Main Screen)
-- Personal biography highlighting academic journey from Pakistan to Pace University
+- Personal biography highlighting academic journey from India to Pace University
 - Two centered buttons: "Hobbies" and "Contact"
 - Scrollable content with proper Material Design styling
 
@@ -30,8 +30,8 @@ This Android application was created as part of an assignment to showcase person
 
 ### 📞 Contact Fragment (Fragment 3 - FragmentThird)
 - Complete contact information display:
-  - Email: AT82755n@pace.edu
-  - Phone: +1 (555) 123-4567
+  - Email: uf28543n@pace.edu
+  - Phone: +1 201-204-2948
   - University: Pace University - Seidenberg School
   - Location: New York, NY
 - "Previous" button for navigation back to biography
@@ -39,7 +39,7 @@ This Android application was created as part of an assignment to showcase person
 ### ⚡ Interactive Features
 - **Floating Action Button**: Displays email contact information when clicked
 - **Toast Message**: Shows "Going to Contact..." when Contact button is pressed
-- **Custom Icon**: Pakistan-inspired design with "A" for Abubakar
+- **Custom Icon**: Pakistan-inspired design with "U" for UROOJ
 - **Smooth Navigation**: Fragment-based navigation without complex dependencies
 
 ## Technical Implementation
@@ -52,8 +52,8 @@ This Android application was created as part of an assignment to showcase person
 - **Build System**: Gradle 8.5 with Android Gradle Plugin 8.2.2
 
 ### 🎨 Design Elements
-- **App Name**: ABUBAKAR (displays on device)
-- **Custom Icon**: Vector drawable with Pakistan flag colors (blue/green)
+- **App Name**: UROOJ (displays on device)
+- **Custom Icon**: Vector drawable with INDIA flag colors (blue/green)
 - **Material Design 3**: Modern UI components and theming
 - **Constraint Layouts**: Proper button alignment and centering with bias
 - **String Externalization**: All text content in strings.xml (no hardcoded strings)
@@ -124,11 +124,11 @@ Screenshots of the app will be included showing:
 - Toast notification
 
 ## APK
-The compiled APK file `aboutmeabubakar.apk` is included in the root directory for easy installation and testing.
+The compiled APK file `aboutmeuroojfatima.apk` is included in the root directory for easy installation and testing.
 
 ---
 
-**Developed by Abubakar**  
+**Developed by UROOJ**  
 *Master's Student in Computer Science*  
 *Pace University - Seidenberg School*  
 *New York, NY*
